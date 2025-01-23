@@ -1,0 +1,25 @@
+[
+  {
+    "studentName": "Saravana",
+    "rollNo": 101,
+    "dob": "2004-05-20",
+    "dept": "CSE"
+  },
+  {
+    "studentName": "Alice Walker",
+    "rollNo": 103,
+    "dob": "2005-01-25",
+    "dept": "Mechanical"
+  },
+  {
+    "studentName": "Ragul",
+    "rollNo": 104,
+    "dob": "2002-12-10",
+    "dept": "IT"
+  }
+]   "studentName": "Dharun",
+    "rollNo": 104,
+    "dob": "2002-12-10",
+    "dept": "IT"
+  }
+]
